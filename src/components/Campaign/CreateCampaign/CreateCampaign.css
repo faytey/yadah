@@ -1,0 +1,39 @@
+.createCampaign {
+  background: rgb(253, 247, 236);
+  padding: 3rem;
+  border-radius: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 40vw;
+  margin: auto;
+  margin-top: 5rem;
+}
+
+label {
+  font-size: 1.2rem;
+  font-weight: 600;
+  background: rgba(0, 0, 0, 0.1);
+  padding: 0.5rem;
+  margin: 0.3rem;
+  border-radius: 0.5rem;
+  width: 100%;
+  text-align: left;
+}
+
+.createCampaign input {
+  font-size: 1.2rem;
+  border: 0.15rem solid brown;
+  border-radius: 0.5rem;
+  padding: 0.1rem 0.5rem;
+  margin-left: 0.5rem;
+  background: none;
+}
+
+.createCampaign h2 {
+  margin-bottom: 1rem;
+}
+
+.createCampaign button {
+  margin-top: 1rem;
+}

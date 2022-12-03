@@ -1,0 +1,26 @@
+.campaignss {
+  display: flex;
+  justify-content: space-around;
+  background: rgb(253, 247, 236);
+}
+
+.allCampaigns {
+  background: rgb(253, 247, 236);
+  border-radius: 0.5rem;
+  margin: 5rem auto 0;
+  padding-bottom: 1rem;
+  width: 50vw;
+}
+
+p {
+  margin: 1rem;
+  background: rgba(0, 0, 0, 0.1);
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.allCampaigns button {
+  margin: 0 0.2rem;
+}

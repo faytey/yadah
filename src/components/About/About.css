@@ -1,0 +1,9 @@
+.about{
+    margin: 3rem 1rem;
+    padding: 1rem;
+    background: rgb(245, 250, 253);
+    font-size: 1.5rem;
+    border: 0.005rem solid brown;
+    border-radius: 0.5rem;
+    box-shadow: 1rem 1rem 1rem rgba(0,0,0,0.2);
+}

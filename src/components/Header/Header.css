@@ -1,0 +1,32 @@
+.header {
+  background-color: aliceblue;
+  padding: 0.3rem;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  text-shadow: 0.1rem 0.1rem rgba(0, 0, 0, 0.2);
+}
+
+.nav {
+  background-color: rgb(139, 60, 60);
+  display: flex;
+  justify-content: space-between;
+  color: rgb(253, 246, 231);
+  box-shadow: 0.5rem 0.5rem 0.5rem rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+
+.navItems {
+  display: flex;
+  margin-right: 1rem;
+}
+
+#about {
+  margin-right: 2rem;
+}
+
+.header a {
+  color: white;
+  text-decoration: none;
+}
