@@ -14,10 +14,11 @@ Yadah is a decentralized application that aims to make crowdfunding easy , seaml
 ## How is this a solution?
 The contract gains when campaign target are met , For situations where campaign target wasnt met , the contract doesnt earn from the campaign . So owner are allowed to withdraw all the raised funds . This create trust in the system to not take changes from an unmet goal.
 
-fist_oncoming Team
+## Team
 Faith M Roberts
 Emmanuel Juliet
-zap Hackathon
+
+## Hackathon
 This project was made for Polygon Africa Bootcamp hackathon
 
 nut_and_bolt Project Structure
