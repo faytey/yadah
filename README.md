@@ -27,6 +27,7 @@ This project was made for [Polygon Africa Bootcamp hackathon](https://polygon.te
 
 ## Project Structure
 [Web Frontend](yadah-3577ad.spheron.app)
+
 [Contracts](github.com/faytey/yadah/)
 
 ## Contract address
