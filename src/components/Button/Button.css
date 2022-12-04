@@ -6,7 +6,7 @@
   border-radius: 0.5rem;
   box-shadow: 0.1rem 0.1rem 0.1rem rgba(0, 0, 0, 0.3);
   background-color: #5e24e6;
-  /* font-size: 36px; */
+  font-size: 1.1rem;
 }
 
 .button:hover {
