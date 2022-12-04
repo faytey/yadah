@@ -25,7 +25,7 @@ The contract gains when campaign target are met , For situations where campaign 
 ## Hackathon
 This project was made for [Polygon Africa Bootcamp hackathon](https://polygon.technology/africa-bootcamp/)
 
-nut_and_bolt Project Structure
+## Project Structure
 [Web Frontend](yadah-3577ad.spheron.app)
 [Contracts](github.com/faytey/yadah/)
 
