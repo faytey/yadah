@@ -4,15 +4,19 @@
   background: rgb(253, 247, 236);
 }
 
+#allCampaign {
+  padding: 2rem;
+}
+
 .allCampaigns {
   background: aliceblue;
   border-radius: 0.5rem;
   margin: 5rem auto 0;
   padding-bottom: 1rem;
-  width: 50vw;
+  width: 60vw;
 }
 
-p {
+tr {
   margin: 1rem;
   background: rgba(0, 0, 0, 0.1);
   padding: 0.5rem;
@@ -23,4 +27,9 @@ p {
 
 .allCampaigns button {
   margin: 0 0.2rem;
+}
+
+td {
+  border-radius: 0.5rem;
+  margin-bottom: 2rem;
 }

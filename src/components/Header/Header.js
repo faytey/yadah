@@ -9,7 +9,9 @@ const Header = () => {
           <div className="logo">YADAH</div>
         </Link>
         <div className="navItems">
-          <div id="connect">CONNECT</div>
+          <Link to="/campaign">
+            <div id="connect">CONNECT</div>
+          </Link>
         </div>
       </div>
     </div>
