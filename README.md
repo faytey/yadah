@@ -12,7 +12,7 @@ Yadah is a decentralized application that aims to make crowdfunding easy , seaml
 
 
 ## How is this a solution?
-The contract gains when campaign target are met , For situations where campaign target wasnt met , the contract doesnt earn from the campaign . So owner are allowed to withdraw all the raised funds . This create trust in the system to not take changes from an unmet goal.
+The contract gains when campaign targets are met, For situations where campaign target wasn't met , the contract doesn't earn from the campaign . So owners are allowed to withdraw all the raised funds. This create trust in the system to not take charges from an unmet goal.
 
 ## Team
 - [Faith M Roberts](https://github.com/faytey)
