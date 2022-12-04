@@ -1,11 +1,9 @@
-import './Footer.css';
+import './Footer.css'
 
 const Footer = () => {
-return(
-    <div className='footer'>
-        ALL RIGHTS RESERVED. &copy; CROWDFUNDZ INC. 2022.
-    </div>
-)
+  return (
+    <div className="footer">ALL RIGHTS RESERVED. &copy; YADAH INC. 2022.</div>
+  )
 }
 
-export default Footer;
+export default Footer
