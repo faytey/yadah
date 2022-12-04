@@ -1,12 +1,7 @@
-import About from '../About/About'
-import Campaign from '../Campaign/Campaign'
-import CreateCampaign from '../Campaign/CreateCampaign/CreateCampaign'
-import Contact from '../Contact/Contact'
 import Footer from '../Footer/Footer'
 import Header from '../Header/Header'
 import Hero from '../Hero/Hero'
 import './Homepage.css'
-import { BrowserRouter as Router, Link } from 'react-router-dom'
 import { CampaignContext } from '../contexts/CampaignContext'
 import React from 'react'
 
@@ -39,8 +34,6 @@ function Homepage() {
       <div className="homePage">
         <Header />
         <Hero />
-        {/* <About /> */}
-        {/* <Contact /> */}
         <Footer />
       </div>
     </CampaignContext.Provider>

@@ -17,10 +17,10 @@ const { address, isConnected } = useAccount()
   return (
     <div className="hero">
       <h1>CROWD FUNDING</h1>
-      <h3>FOR A JUST CAUSE</h3>
-      <h5>JOIN THE TRAIN</h5>
+      <h3>DO YOU NEED FUNDING FOR YOUR PROJECT</h3>
+      <h5>EXPLORE TO GET FUNDED</h5>
       <Link to="/campaign">
-        <Button btnText="EXPLORE" color="white" backgroundColor="brown" onClick={() => connect()} />
+        <Button btnText="EXPLORE" color="white" backgroundColor="brown" />
       </Link>
     </div>
   )

@@ -6,11 +6,10 @@ const Header = () => {
     <div className="header">
       <div className="nav">
         <Link to="/">
-          <div className="logo">CROWDFUNDZ</div>
+          <div className="logo">YADAH</div>
         </Link>
         <div className="navItems">
-          <div id="about">ABOUT US</div>
-          <div id="contact">CONTACT US</div>
+          <div id="connect">CONNECT</div>
         </div>
       </div>
     </div>

@@ -1,7 +1,7 @@
 .footer{
     display: flex;
     justify-content: space-around;
-    background-color: rgb(139, 60, 60);
+    background-color: #5e24e6;
     color: rgb(253, 246, 231);
     padding: 2rem;
     text-shadow: 0.1rem 0.1rem rgba(0, 0, 0, 0.2);
