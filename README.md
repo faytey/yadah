@@ -15,14 +15,21 @@ Yadah is a decentralized application that aims to make crowdfunding easy , seaml
 The contract gains when campaign target are met , For situations where campaign target wasnt met , the contract doesnt earn from the campaign . So owner are allowed to withdraw all the raised funds . This create trust in the system to not take changes from an unmet goal.
 
 ## Team
-Faith M Roberts
-Emmanuel Juliet
+- [Faith M Roberts](https://github.com/faytey)
+
+- [Emmanuel Juliet](https://github.com/Immanuelolivia1)
+
+## Stack used
+- [Polygon](https://polygon.technology/) enables us to deploy contracts in L2 blockchain which helps handle traffic for the rush in the event in buying tickets.
 
 ## Hackathon
-This project was made for Polygon Africa Bootcamp hackathon
+This project was made for [Polygon Africa Bootcamp hackathon](https://polygon.technology/africa-bootcamp/)
 
 nut_and_bolt Project Structure
-Web Frontend
-Contracts
-Contract address
-The contract was deployed on mumbai at 0x5E1325af5F10A29f04Bd1e9EA6076558765B8fe6
+[Web Frontend](yadah-3577ad.spheron.app)
+[Contracts](github.com/faytey/yadah/)
+
+## Contract address
+The contract was deployed on mumbai at 0xBb43b67e774139b96BB0b4Ac0eB824750dE8220F
+
+
