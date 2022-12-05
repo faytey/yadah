@@ -3,3 +3,26 @@
   justify-content: space-around;
   margin-top: 5rem;
 }
+
+.connected {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 5rem;
+  color: aliceblue;
+}
+
+.connected button {
+  width: auto;
+  height: auto;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 0.5rem;
+  box-shadow: 0.1rem 0.1rem 0.1rem rgba(0, 0, 0, 0.3);
+  background-color: #5e24e6;
+  font-size: 1.1rem;
+  color: aliceblue;
+}
+
+.connected button:hover {
+  cursor: pointer;
+}
