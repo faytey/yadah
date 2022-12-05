@@ -31,6 +31,6 @@ This project was made for [Polygon Africa Bootcamp hackathon](https://polygon.te
 [Contracts](github.com/faytey/yadah/)
 
 ## Contract address
-The contract was deployed on mumbai at 0xBb43b67e774139b96BB0b4Ac0eB824750dE8220F
+The contract was deployed on mumbai at [0xBb43b67e774139b96BB0b4Ac0eB824750dE8220F](https://polygonscan.com/address/0xBb43b67e774139b96BB0b4Ac0eB824750dE8220F)
 
 
