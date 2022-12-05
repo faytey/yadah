@@ -26,3 +26,30 @@
 .connected button:hover {
   cursor: pointer;
 }
+
+.connectors {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 5rem;
+}
+
+.connectors h6 {
+  color: rgb(251, 245, 237);
+  font-size: 1.5rem;
+  margin: 1rem auto;
+}
+
+.connectors button {
+  width: 40%;
+  height: auto;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  box-shadow: 0.1rem 0.1rem 0.1rem rgba(0, 0, 0, 0.3);
+  border: 0.2rem solid #5e24e6;
+  font-size: 1.1rem;
+  color: aliceblue;
+  background-color: rgb(28, 27, 27);
+  background-image: url(https://images.unsplash.com/photo-1554050857-c84a8abdb5e2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60);
+  margin: 1rem auto;
+}

@@ -17,12 +17,6 @@ const CreateCampaign = ({ btnText, backgroundColor, color }) => {
     setSubmitted,
     setError,
     setCampaigns,
-    // handleCampaign,
-    // handleReasons,
-    // handleFunding,
-    // handleSubmit,
-    // errorMessage,
-    // successMessage,
   } = useContext(CampaignContext)
 
   const handleCampaign = (e) => {
@@ -46,7 +40,7 @@ const CreateCampaign = ({ btnText, backgroundColor, color }) => {
       setError(true)
     } else {
       setSubmitted(true)
-      // setCampaigns({ campaign: '', reasons: '', amount: '' })
+      // setCampaigns({ campaign, reasons, funding })
       setError(false)
     }
   }
@@ -121,7 +115,6 @@ const CreateCampaign = ({ btnText, backgroundColor, color }) => {
           CREATE
         </button>
       </div>
-      {/* <Footer /> */}
     </div>
   )
 }
