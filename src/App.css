@@ -1,3 +1,65 @@
-/* .App{
+@media (max-width: 853px) {
+  .header {
+    display: flex;
+    justify-content: center;
+    padding: 0;
+  }
+
+  .nav {
+    width: 93vw;
+    margin: 0 auto;
+  }
+
+  .hero {
+    padding: 1rem;
+    width: 90%;
+    margin: auto;
+  }
+
+  .hero h1 {
+    font-size: 2.3rem;
+  }
+
+  .hero h3 {
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin: 1rem auto;
+  }
+
+  .hero h5 {
+    font-size: 1.2rem;
+    font-weight: 400;
+    margin-bottom: 1rem;
+  }
+
+  .hero button {
+    font-size: 1.8rem;
+  }
+
+  .campaign {
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: flex-start; */
+    margin-bottom: 2rem;
+    margin-top: 0;
+  }
+
+  .campaigns {
+    line-height: 1;
+    font-size: 1rem;
+  }
+
+  .campaigns button {
+    font-size: 1.5rem;
+    width: 15rem;
+  }
+
+  .allCampaigns {
     width: 100vw;
-} */
+  }
+
+  .createCampaign {
+    margin: auto;
+    width: 60vw;
+  }
+}

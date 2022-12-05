@@ -14,6 +14,8 @@
   margin: 5rem auto 0;
   padding-bottom: 1rem;
   width: 70vw;
+  display: flex;
+  flex-direction: column;
 }
 
 tr {
@@ -32,4 +34,7 @@ tr {
 td {
   border-radius: 0.5rem;
   margin-bottom: 2rem;
+}
+table{
+  width: 100%;
 }

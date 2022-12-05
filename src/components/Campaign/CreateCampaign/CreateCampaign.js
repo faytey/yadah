@@ -46,7 +46,7 @@ const CreateCampaign = ({ btnText, backgroundColor, color }) => {
       setError(true)
     } else {
       setSubmitted(true)
-      setCampaigns({ campaign: '', reasons: '', amount: '' })
+      // setCampaigns({ campaign: '', reasons: '', amount: '' })
       setError(false)
     }
   }
